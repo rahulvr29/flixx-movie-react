@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 # Links
 
-Github link - [Click Here](https://github.com/rahulvr29/flixx-movie-react/tree/main)
+- Github link - [Click Here](https://github.com/rahulvr29/flixx-movie-react/tree/main)
 - Live Url link - [Click Here](https://flixx-movie-react-rahulvr29.vercel.app/)
