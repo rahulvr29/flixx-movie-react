@@ -1,11 +1,19 @@
 import React from 'react'
+import { Footer, HeroSection, NavbarSection, PopularMovie, Searchbar } from './components'
+
 
 function App() {
   
 
   return (
     <>
-      <div className="text-3xl font-bold underline text-blue-600" >HELLO</div>
+      <div className='overflow-hidden'>
+        <NavbarSection/>
+        <HeroSection/>
+        <Searchbar/>
+        <PopularMovie/>
+        <Footer/>
+      </div>
     </>
   )
 }
